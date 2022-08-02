@@ -3,6 +3,9 @@
 
 I am a Lighthouse Labs graduate who loves solving problems and making apps work better for the user.
 
+My SKills Include: [![My Skills](https://skills.thijs.gg/icons?i=js,html,css,react,nodejs,jquery,mongodb,ruby,rails,git)](https://skills.thijs.gg)
+
+
 <!--
 **sendd-k/sendd-k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
