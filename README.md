@@ -1,4 +1,7 @@
 ### Hi there 👋
+#### I am a Junior Web developer.
+
+I am a Lighthouse Labs graduate who loves solving problems and making apps work better for the user.
 
 <!--
 **sendd-k/sendd-k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
